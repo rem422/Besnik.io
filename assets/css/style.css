@@ -879,6 +879,10 @@ section, footer {
         grid-template-columns: 100%;
     }
 
+    .subscription .subscription_wrapper .subscription_cards .subscription_card .subscription_card_info{
+    margin: 2rem 0;
+}
+
     /* Footer SECTION STYLING */
 .footer .footer_wrapper .footer_newsletter {
     max-width: 300px;
